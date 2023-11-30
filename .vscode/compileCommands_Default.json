@@ -1,0 +1,77 @@
+[
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Collectible\\Gem.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Collectible\\Gem.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Components\\ArmChanger.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Components\\ArmChanger.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Components\\MoverComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Components\\MoverComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Components\\TriggerComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Components\\TriggerComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Player\\Marble.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\Player\\Marble.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\RMarboR.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\RMarboR.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\RMarboR.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\RMarboRGameModeBase.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\Source\\RMarboR\\RMarboRGameModeBase.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\vnish\\OneDrive\\Documents\\Unreal Projects\\RMarboR\\.vscode\\compileCommands_Default\\RMarboR.211.rsp\"",
+		"directory": "C:\\UNrealEngines\\UE_5.0\\Engine\\Source"
+	}
+]
